@@ -21,10 +21,3 @@ Key Features of the Project
 3. Time-Series Forecasting
 - Used Exponential Smoothing to forecast churn trends across age groups.
 - Provided actionable forecasts to assist in proactive customer retention efforts.
-
----
-
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/telco-churn-forecasting.git
